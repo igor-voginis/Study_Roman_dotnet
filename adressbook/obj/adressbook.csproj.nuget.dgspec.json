@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\adressbook.csproj": {}
+    "e:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\adressbook.csproj": {}
   },
   "projects": {
-    "E:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\adressbook.csproj": {
+    "e:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\adressbook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\adressbook.csproj",
+        "projectUniqueName": "e:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\adressbook.csproj",
         "projectName": "adressbook",
-        "projectPath": "E:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\adressbook.csproj",
+        "projectPath": "e:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\adressbook.csproj",
         "packagesPath": "C:\\Users\\igor.voginis\\.nuget\\packages\\",
-        "outputPath": "E:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\obj\\",
+        "outputPath": "e:\\Study\\С#\\Project\\Study_Roman_dotnet\\Study_Roman_dotnet\\adressbook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igor.voginis\\AppData\\Roaming\\NuGet\\NuGet.Config",
